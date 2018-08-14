@@ -1,4 +1,4 @@
-_When I was looking for a new job after taking few months off (needed to recharge my batteries) I created something called bonkers resume_ (patent pending). I had that idea in my head for months, but never had time to implement it. Until I did._
+_When I was looking for a new job after taking few months off (needed to recharge my batteries) I created something called __bonkers resume__ (patent pending). I had that idea in my head for months, but never had time to implement it. Until I did._
 
 _I have send that resume in few places, unfortunately no one appreciated its form (as I did, obviously). Thus I'm sharing it on the github, maybe someone will find it somewhat amusing._
 
